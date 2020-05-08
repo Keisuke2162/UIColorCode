@@ -13,6 +13,7 @@
 		E7D77B7624662481007E5869 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7D77B7424662481007E5869 /* Main.storyboard */; };
 		E7D77B7824662485007E5869 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7D77B7724662485007E5869 /* Assets.xcassets */; };
 		E7D77B7B24662485007E5869 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7D77B7924662485007E5869 /* LaunchScreen.storyboard */; };
+		E7D77B8324662498007E5869 /* ColorCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D77B8224662498007E5869 /* ColorCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E7D77B7724662485007E5869 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7D77B7A24662485007E5869 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7D77B7C24662485007E5869 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7D77B8224662498007E5869 /* ColorCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E7D77B6E24662481007E5869 /* AppDelegate.swift */,
 				E7D77B7024662481007E5869 /* SceneDelegate.swift */,
 				E7D77B7224662481007E5869 /* ViewController.swift */,
+				E7D77B8224662498007E5869 /* ColorCode.swift */,
 				E7D77B7424662481007E5869 /* Main.storyboard */,
 				E7D77B7724662485007E5869 /* Assets.xcassets */,
 				E7D77B7924662485007E5869 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7D77B8324662498007E5869 /* ColorCode.swift in Sources */,
 				E7D77B7324662481007E5869 /* ViewController.swift in Sources */,
 				E7D77B6F24662481007E5869 /* AppDelegate.swift in Sources */,
 				E7D77B7124662481007E5869 /* SceneDelegate.swift in Sources */,
